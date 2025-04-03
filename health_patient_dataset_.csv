@@ -1,0 +1,51 @@
+﻿Patient ID,Name,Age,Gender,Date,Diagnosis,Treatment,Treatment Cost,Admission Date,Discharge Date,Hospital Stay (Days)
+2B01B4E8,Bonnie Hawkins,70,Male,02/07/2024,Arthritis,Rehabilitation,$335,16/02/2025,16/02/2025,0
+39C8F7CA,Douglas Smith,32,Female,30/04/2024,Flu,Surgery,$2420,07/12/2023,09/12/2024,368
+B0810667,Isaac Martinez,58,Male,23/08/2024,Heart Disease,Surgery,$4494,21/10/2023,15/12/2023,55
+1FF35B34,Brian Williams,21,Male,25/06/2023,COVID-19,Observation,$4176,02/06/2023,25/10/2024,511
+A126F755,Mrs. Alison Wright MD,18,Female,21/11/2024,Arthritis,Surgery,$160,19/11/2023,19/07/2024,243
+109F15D9,Kristy Bell,21,Male,29/04/2024,Flu,Therapy,$1439,27/07/2023,27/11/2023,123
+5767FACD,Jason Lee,76,Female,06/04/2024,Hypertension,Rehabilitation,$1738,05/02/2024,01/06/2024,117
+2.97E+10,Angela Mata,38,Female,06/06/2023,Arthritis,Observation,$3049,25/01/2024,16/03/2024,51
+CC23CCA9,Christine Wells,58,Female,18/08/2024,Asthma,Therapy,$3217,03/01/2025,08/02/2025,36
+46C04165,Angela Gallagher,55,Female,13/12/2023,COVID-19,Rehabilitation,$3083,22/05/2023,04/10/2024,501
+0A956781,Brandon Novak,83,Male,13/10/2023,COVID-19,Rehabilitation,$1693,16/08/2024,10/11/2024,86
+72191512,Deborah Harris,60,Male,15/07/2023,Arthritis,Surgery,$3712,10/10/2024,09/01/2025,91
+E51019C4,Christina Stephens,72,Female,05/10/2023,COVID-19,Surgery,$193,11/07/2024,28/11/2024,140
+0F70B298,Linda Harris,71,Male,16/06/2024,Arthritis,Therapy,$1821,14/12/2024,17/12/2024,3
+5DE4BA8E,Cynthia Watkins,46,Female,30/06/2023,COVID-19,,$4588,21/12/2023,15/08/2024,238
+CE8AB0B1,Bryan Anderson,42,Female,19/03/2024,COVID-19,Rehabilitation,$1796,31/01/2024,22/10/2024,265
+026DA7D5,Jenny Foster DVM,58,Female,17/04/2023,Flu,Rehabilitation,$699,25/09/2023,08/01/2024,105
+D6B26623,Curtis Cowan Jr.,26,Male,25/06/2023,Diabetes,Therapy,$4365,24/09/2023,06/05/2024,225
+62AFCD7C,Keith Thomas,74,Female,13/04/2023,Diabetes,Observation,$1389,29/07/2023,22/02/2024,208
+9FBD7DEC,Jessica Williams,28,Female,28/01/2024,Heart Disease,Therapy,$1363,22/04/2023,19/09/2024,516
+EA12BA7E,Stephanie Adams,49,Male,04/02/2024,Hypertension,Therapy,$985,2024-11-16,16/11/2024,0
+0793FF3F,Kevin Everett,84,Male,20/07/2023,Flu,Therapy,$4035,27/12/2024,11/01/2025,15
+87769B24,Jamie Sexton,31,Female,08/08/2024,Diabetes,Therapy,$4455,11/04/2023,25/01/2025,655
+66A7DC3F,David Young,62,Female,24/09/2024,Diabetes,Medication,$349,20/07/2024,30/10/2024,102
+09F30E2A,Susan Reese,43,Male,18/06/2024,Hypertension,Therapy,$1823,22/02/2024,16/11/2024,268
+6FD4F401,Jessica Jacobson,36,Female,26/11/2023,Flu,Therapy,$4187,16/02/2025,18/02/2025,2
+62CD9D15,Daniel Hart,50,Male,2024-02-29,COVID-19,Therapy,$2155,14/12/2023,28/08/2024,258
+9FA49E94,Carrie Clark,42,Male,07/07/2023,Diabetes,Therapy,$2412,22/11/2023,14/10/2024,327
+8EF4CDD5,Vanessa Shaw,30,Female,04/10/2024,Diabetes,Observation,$3029,31/03/2023,11/02/2024,317
+AEB813C6,Melissa Munoz,54,Female,16/03/2024,Diabetes,Observation,$4338,22/03/2024,25/10/2024,217
+783D644D,Joshua Thomas,31,Male,03/01/2025,Hypertension,Surgery,$3026,12/09/2024,21/09/2024,9
+D5F3B419,Erika Alvarez,57,Female,11/07/2024,Arthritis,Observation,$4617,02/05/2023,01/07/2023,60
+69A75D38,Jennifer Allen,78,Female,18/01/2024,Diabetes,Medication,$991,08/02/2024,13/09/2024,218
+3169C59B,Natalie Smith,48,Female,29/11/2024,Arthritis,Therapy,$358,22/06/2024,21/07/2024,29
+BE14F339,John Roy,54,Male,26/01/2024,COVID-19,Observation,$4962,28/05/2024,08/06/2024,11
+A0C84C07,Amber White,62,Female,11/04/2024,Flu,Therapy,$1659,31/07/2024,26/11/2024,118
+D181FDBC,Amanda Perez,59,Male,21/09/2024,COVID-19,Therapy,$4419,10/08/2023,26/11/2024,474
+713EC60E,Donald Martin,19,Female,02/11/2023,Asthma,Medication,$2759,30/11/2023,26/01/2025,423
+6A01EEE5,Samantha Malone,71,Male,24/01/2025,Asthma,Observation,$4522,15/05/2023,23/05/2024,374
+416171D5,Whitney Osborne,83,Female,22/06/2024,Hypertension,Rehabilitation,$234,17/08/2023,11/10/2023,55
+16E8CC5C,Valerie Smith,22,Male,23/08/2023,Asthma,Observation,$2604,13/11/2023,05/02/2025,450
+AD93D529,Paula Williams,70,Female,05/06/2024,Heart Disease,Rehabilitation,$3926,18/06/2023,26/11/2023,161
+29B0800C,Kevin Lambert,81,Female,15/08/2024,Heart Disease,Observation,$1280,09/02/2024,01/01/2025,327
+3EF79590,Angela Johnson,53,Female,08/05/2023,Hypertension,Therapy,$851,02/08/2023,21/04/2024,263
+C4F721A9,Brandy Doyle,20,Male,06/07/2024,Diabetes,Medication,$2932,28/05/2023,11/02/2025,625
+7364AA16,Sheila Clark,71,Male,25/01/2024,Arthritis,Rehabilitation,$4317,26/05/2024,17/01/2025,236
+AD94FF46,Heather Hamilton,34,Female,20/11/2024,Heart Disease,Therapy,$3406,14/06/2023,16/07/2023,32
+EC0B26AA,Bruce Duran,41,Female,26/10/2024,Arthritis,Medication,$168,29/09/2024,31/01/2025,124
+7270A3D2,Terri Mccall,78,Female,03/06/2023,Heart Disease,Rehabilitation,$1075,07/05/2023,08/12/2023,215
+28B5B289,Blake Collins,56,Male,14/03/2024,Hypertension,Medication,$4290,02/01/2025,03/02/2025,32
